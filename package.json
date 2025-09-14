@@ -1,7 +1,7 @@
 {
-  "name": "SHAHADAT CHAT BOT",
+  "name": " 🎧এꔰꜛ𝐑𝐎𝐌𝐄𝐎𝐁𝐎𝐓ꜛꗄꔰ🖤󰦉 ",
   "version": "10.1.1",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By ᎬᎷᏢᎬᏒᎬᏌᏒ ᏒᎾᎷᎬᎾ",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
@@ -19,15 +19,15 @@
   "keywords": [
     "bot",
     "facebook",
-    "shahadatproject",
+    "Romeoproject",
     "messenger",
     "javascript",
-    "shadat",
-    "ullash",
-    "cybersahu",
-    "shahadat chat bot"
+    "Romeo",
+    "Romy",
+    "cyberromi",
+    "Romeo chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "ᎬᎷᏢᎬᏒᎬᏌᏒ ᏒᎾᎷᎬᎾ",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
@@ -97,7 +97,8 @@
     "path": "^0.12.7",
     "pidusage": "^3.0.0",
     "ping-monitor": "^0.6.2",
-    "priyansh-fb-downloader": "^2.0.0",
+    "priyansh-fb-downloade Mirai"
+0.0",
     "priyansh-ig-downloader": "^2.0.2",
     "priyanshu-fca": "latest",
     "random-cat-img": "^1.0.4",
@@ -129,4 +130,4 @@
     "unofficial-fb-chat-api": "^1.0.0",
     "zalgo": "0.0.1"
   }
-}
+} MIRAI"
